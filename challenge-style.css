@@ -5,7 +5,7 @@
 }
 
 body {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.4;
 }
 
@@ -39,17 +39,16 @@ h2 {
 }
 
 .dollar {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: bolder;
 }
 
 .shipping {
   color: #777;
-  font-size: 13px;
+  font-size: 12px;
   font-weight: bold;
-  margin-bottom: 20px;
 }
-.container {
+.colors {
   margin-bottom: 30px;
 }
 .color {
@@ -58,6 +57,10 @@ h2 {
   width: 22px;
   display: inline-block;
   margin-right: 10px;
+}
+.dress {
+  margin-bottom: 10px;
+  font-size: 16px;
 }
 .blue {
   background-color: #2f6ee2;
